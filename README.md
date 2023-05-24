@@ -1,6 +1,6 @@
 # Python_exo_01
 
-##User Management Program
+## User Management Program
 
 This Python program allows for the management of user information. It provides the following functionality:
 
